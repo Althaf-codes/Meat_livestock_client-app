@@ -47,6 +47,7 @@ The Meat Livestock Client App is a Flutter application designed for users to bro
    <img src ="screenshots/mqsearch_pg.png" width="400px">
    <img src ="screenshots/mqcart_pg.png" width="400px">
 
-
+## Created Date
+This project was created on January 6, 2022.
 
 
