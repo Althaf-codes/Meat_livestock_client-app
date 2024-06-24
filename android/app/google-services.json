@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550327411843",
+    "project_id": "mq-startup1",
+    "storage_bucket": "mq-startup1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550327411843:android:59650d7b2e45c84cabe7b6",
+        "android_client_info": {
+          "package_name": "com.example.mq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550327411843-iiehtpo65kt6e2o3ogfgfvf3br3cphor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkOUyYUQQn4IDuWy1vixSEEhLNi_jPVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550327411843-iiehtpo65kt6e2o3ogfgfvf3br3cphor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
