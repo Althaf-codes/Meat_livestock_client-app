@@ -20,8 +20,8 @@ The Meat Livestock Client App is a Flutter application designed for users to bro
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/meat-livestock-client-app.git
-   cd meat-livestock-client-app
+   git clone https://github.com/Althaf-codes/Meat_livestock_client-app
+   cd Meat_livestock_client-app
 
 2. Install Flutter dependencies:
    ```sh
